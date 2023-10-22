@@ -1,0 +1,5 @@
+pandas
+spacy
+spacy[transformers]
+statsmodels
+fastcoref
